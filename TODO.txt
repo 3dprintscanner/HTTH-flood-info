@@ -1,0 +1,20 @@
+TODO:
+
+
+Create functions to give flood risk at time T for position x,y.
+
+Design a front end to serve risk and useful information to the end user. CSS and html scheme.
+
+Create database and schema to record user data
+
+Decide on fields 
+
+Form input validation for new user signup
+
+Populate database fields for information
+
+us DB to fill web pages
+
+
+
+
